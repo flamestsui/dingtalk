@@ -1,0 +1,11 @@
+{
+  "domain": "dingtalk",
+  "name": "钉钉机器人通知",
+  "version": "1.0.0",
+  "config_flow": true,
+  "requirements": ["requests>=2.25.1"],
+  "dependencies": [],
+  "documentation": "https://github.com/flamestsui/dingtalk",
+  "iot_class": "cloud_polling",
+  "codeowners": ["@flamestsui"]
+}
