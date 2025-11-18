@@ -1,5 +1,6 @@
 # 钉钉机器人通知组件
 [![Lastest Release](https://img.shields.io/github/release/flamestsui/dingtalk.svg?style=flat)](https://github.com/flamestsui/dingtalk/releases)[![GitHub All Releases](https://img.shields.io/github/downloads/flamestsui/dingtalk/total)](https://github.com/flamestsui/dingtalk/releases)
+
 一个用于 Home Assistant 的钉钉机器人通知组件，可通过钉钉机器人 API 向钉钉群组发送通知消息，支持多种消息类型和用户@功能。
 
 ## 功能介绍
